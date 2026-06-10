@@ -1,0 +1,6 @@
+@NoTime_HostAddress = http://localhost:5234
+
+GET {{NoTime_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

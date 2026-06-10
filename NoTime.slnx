@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NoTime.Application/NoTime.Application.csproj" />
+  <Project Path="NoTime.Domain/NoTime.Domain.csproj" />
+  <Project Path="NoTime.Infrastructure/NoTime.Infrastructure.csproj" />
+  <Project Path="NoTime/NoTime.csproj" />
+</Solution>
